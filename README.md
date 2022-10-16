@@ -3,7 +3,7 @@
 - 🦋 Blog : https://velog.io/@doctor
 - 📫 How to reach me: dbckdgjs1130@naver.com
 - 🌱 I’m currently learning: Frontend Testing
-- skills: `ReactJS`, `Next.js`, `styled-components`,`Emotion`,`SCSS`,`JavaScript`,`TypeScript`,`GitHub`
+- 🔭 Techs: `ReactJS`, `Next.js`, `styled-components`,`Emotion`,`SCSS`,`JavaScript`,`TypeScript`,`GitHub`
 
 
 <!--
