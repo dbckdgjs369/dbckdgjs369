@@ -1,23 +1,38 @@
-### Hi there 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdbckdgjs369&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-- 🦋 Blog : https://velog.io/@doctor
-- 🎄 DIY Blog: [https://dbckdgjs369.github.io/](https://dbckdgjs369.github.io/) (working...)
-- 📫 How to reach me: dbckdgjs1130@naver.com
-- 🌱 I’m currently learning: Frontend Testing
-- 🔭 Techs: `ReactJS`, `Next.js`, `styled-components`,`Emotion`,`SCSS`,`JavaScript`,`TypeScript`,`GitHub`
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Groot's%20Github&fontSize=40)
+
+<h4 align="center">⚒ Tech Stack ⚒</h3>
+<p align="center">
+  <div align="center">
+    <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+</div>
+</p>
+
+<h4 align="center"> Contact Me  </h3>
+<p align="center">
+<!--   <a href="https://velog.io/@hyeinisfree"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp -->
+  <a href="mailto:dbckdgjs369@gmail.com"><img src="https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white&link=dbckdgjs369@gmail.com"/></a>
+</p>
 
 
-<!--
-**dbckdgjs369/dbckdgjs369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 
+👋 Hi, I’m @kyongs
+- 👀 I’m interested in Database
+- 🌱 I’m currently learning Flash Memory, Docker, AWS
+- 💞️ I’m looking to collaborate on some awesome projects!!
+- 📫 How to reach me : kyongshikl@gmail.com
+- 🍭 Old github : https://github.com/kyongshik
+- 🦋 Blog : https://somewheretogo.tistory.com/
+- 🌻 TIL Blog: https://kyongs.github.io/
+<!---
+kyongs/kyongs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+---> 
+<br/><br/>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyongs&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-Here are some ideas to get you started:
-
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 🔭 I’m currently working on ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbckdgjs369&show_icons=true&theme=graywhite)
+  
+ </div>
