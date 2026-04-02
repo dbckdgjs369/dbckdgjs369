@@ -28,8 +28,3 @@
 
 </p>
 
-<div align="center">
-  
-![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dbckdgjs369&show_icons=true&theme=graywhite)
-  
- </div>
