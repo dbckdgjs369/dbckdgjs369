@@ -5,15 +5,6 @@
   상태 정합성과 서드파티 한계를 코드로 해결하는 걸 좋아합니다.
 </p>
 
-<br/>
-
-## 🔥 What I'm working on
-
-- 🎙️ **AI 음성 상담원 플랫폼** — LiveKit/WebRTC 기반 멀티콜 워커, 풀-Rust 재작성으로 메모리 5~10배·배포 100배 개선
-- 📞 **RemoteCall 웹뷰어** — PNS/Relay 재연결 아키텍처, Android 백그라운드 유지, 실시간 모자이크 PoC
-- 🏢 **RFICE 가상 오피스** — STOMP 실시간 통화·인증·어드민 시스템
-
-<br/>
 
 ## 🛠 Tech Stack
 
